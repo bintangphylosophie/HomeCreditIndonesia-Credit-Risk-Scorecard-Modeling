@@ -10,6 +10,7 @@ Click here to:
 # Home Credit Indonesia - Credit Risk Scorecard Modeling
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/7611f1b4-d09c-4778-a689-34d59d57b59c" width="500">
+    <img src="https://github.com/user-attachments/assets/1476111b-2b1b-4bea-8150-9c422437df4f" width="500">
     <img src="https://github.com/user-attachments/assets/a0453bbc-9dd7-43f9-a393-0a158d3c5315" width="500">
 </p>
+
